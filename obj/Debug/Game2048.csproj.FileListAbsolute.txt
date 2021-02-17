@@ -1,0 +1,10 @@
+E:\КУРСОВАЯ\Программа\Game2048\bin\Debug\Game2048.exe.config
+E:\КУРСОВАЯ\Программа\Game2048\bin\Debug\Game2048.exe
+E:\КУРСОВАЯ\Программа\Game2048\bin\Debug\Game2048.pdb
+E:\КУРСОВАЯ\Программа\Game2048\obj\Debug\Game2048.csprojAssemblyReference.cache
+E:\КУРСОВАЯ\Программа\Game2048\obj\Debug\Game2048.Form1.resources
+E:\КУРСОВАЯ\Программа\Game2048\obj\Debug\Game2048.Properties.Resources.resources
+E:\КУРСОВАЯ\Программа\Game2048\obj\Debug\Game2048.csproj.GenerateResource.cache
+E:\КУРСОВАЯ\Программа\Game2048\obj\Debug\Game2048.exe
+E:\КУРСОВАЯ\Программа\Game2048\obj\Debug\Game2048.pdb
+E:\КУРСОВАЯ\Программа\Game2048\obj\Debug\Game2048.Form2.resources
